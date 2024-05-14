@@ -1,4 +1,4 @@
-import checkPhoneNumber from '../checkPhoneNumber';
+import checkPhoneNumber from '../js/checkPhoneNumber';
 
 test.each(
   [

@@ -1,4 +1,4 @@
-import Validator from '../Validator';
+import Validator from '../js/Validator';
 
 test.each(
   [
